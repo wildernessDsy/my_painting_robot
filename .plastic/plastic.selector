@@ -1,4 +1,0 @@
-repository "my_painting_robot/my_painting_robot 2026-10-10_11-40-26@15669778285286@cloud"
-  path "/"
-    br "/main"
-    co "/main"
